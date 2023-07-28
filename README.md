@@ -1,7 +1,6 @@
 # Love Calculator
 
-- Tutorial: https://youtu.be/gkby8r-3soc
-- Demo: https://imkennyyip.github.io/love-calculator/
+
 
 In this tutorial, you will learn basic HTML, CSS and JavaScript by creating a simple love calculator.
 
